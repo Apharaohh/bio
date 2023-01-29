@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+}
+
+nav{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.container {
+    margin: 8px;
+    padding: 8px;
+}
+
+
+.row {
+    margin: 0;
+    padding: 8px;
+}
+
+
+h3, h2, h1, p {
+    padding: 4px;
+}
+
+h1 {
+    color: rgb(233, 105, 36);
+}
+
+a {
+    text-decoration: none;
+}
